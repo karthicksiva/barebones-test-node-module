@@ -1,0 +1,19 @@
+{
+  "name": "barebones-test-node-module",
+  "version": "1.0.0",
+  "description": "barebones-test-node-module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthicksiva/barebones-test-node-module.git"
+  },
+  "author": "Karthick Sivachalapathy <karthicksiva.in@gmail.com> (http://www.karthicklive.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthicksiva/barebones-test-node-module/issues"
+  },
+  "homepage": "https://github.com/karthicksiva/barebones-test-node-module#readme"
+}
